@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Profile Statistics](https://github-readme-stats.vercel.app/api?username=bring-shrubbery&count_private=true&show_icons=true)](https://github.com/bring-shrubbery)
+
 <!--
 **bring-shrubbery/bring-shrubbery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
