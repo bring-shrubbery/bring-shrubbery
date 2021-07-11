@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **everything at the same time**
 
-- 🌱 I’m currently learning **🦀 Rust**
+- 🌱 I’m currently learning **🦀 Rust, WebAssembly**
 
 - 👯 I’m looking to collaborate on **anything related to Next.js**
 
