@@ -28,6 +28,6 @@
 There are a couple of ways that you could support me (easiest to hardest):
 
 1. Star my repos
-2. Get $100 for yourself on DigitalOcean by using my [link](https://m.do.co/c/8a7c7ededdf2)
+2. Get $100 for yourself on DigitalOcean by using my [link](https://m.do.co/c/8a7c7ededdf2) (I will get $25 of free DigitalOcean credits)
 3. Become a [Github sponsor](https://github.com/sponsors/bring-shrubbery)
 
