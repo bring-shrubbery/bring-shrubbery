@@ -25,8 +25,9 @@ My name is **Antoni**, I aim to make **simple**, **well architected**, **high qu
 This is my current "perfect" professional stack:
 
 - TypeScript + Rust
-- Next.js _(no Redux)_
-- GraphQL _(I also don't mind OpenAPI REST, tRPC, WebRTC)_
+- Next.js + Turborepo
+- Zustand | Jotai
+- GraphQL _(I also don't mind OpenAPI REST + React Query, tRPC, WebRTC)_
 - Prisma
 - Planetscale + Redis
 
