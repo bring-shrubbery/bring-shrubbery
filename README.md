@@ -22,13 +22,13 @@ If you like any of my open-source projects you see below, please give them a sta
 
 My name is **Antoni**, I aim to make **simple**, **well architected**, **high quality** software and I try to make it as open-source as possible.
 
-This is my current "perfect" professional stack:
+This is my current "perfect" professional base stack:
 
 - TypeScript + Rust
 - Next.js + Turborepo
 - Zustand or Jotai (No Redux 💩)
 - GraphQL _(I also don't mind OpenAPI REST + React Query, tRPC, WebRTC)_
-- Prisma
-- Planetscale + Redis
+- Prisma + Planetscale (or MongoDB)
+- + other helper tech like Redis, Kafka, Meilisearch, etc.
 
 If you need help with a similar stack, feel free to contact me :)
