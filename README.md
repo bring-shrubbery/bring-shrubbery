@@ -29,6 +29,6 @@ This is my current "perfect" professional base stack:
 - Zustand or Jotai (No Redux 💩)
 - GraphQL _(I also don't mind OpenAPI REST + React Query, tRPC, WebRTC)_
 - Prisma + Planetscale (or MongoDB)
-- + other helper tech like Redis, Kafka, Meilisearch, etc.
+- \+ other helper tech like Redis, Kafka, Meilisearch, etc.
 
 If you need help with a similar stack, feel free to contact me :)
