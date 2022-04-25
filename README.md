@@ -26,7 +26,7 @@ This is my current "perfect" professional base stack:
 
 - TypeScript + Rust
 - Next.js + Turborepo
-- Zustand or Jotai (No Redux 💩)
+- Zustand or Jotai (No more Redux 💩)
 - GraphQL _(I also don't mind OpenAPI REST + React Query, tRPC, WebRTC)_
 - Prisma + Planetscale (or MongoDB)
 - \+ other helper tech like Redis, Kafka, Meilisearch, etc.
