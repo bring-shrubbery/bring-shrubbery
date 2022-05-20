@@ -33,4 +33,4 @@ This is my current "perfect" professional base stack:
 
 If you need help with a similar stack, feel free to contact me :)
 
-You can also check out my [CV here](https://read.cv/antoni)!
+> **P.S.** You can also check out my [CV here](https://read.cv/antoni)!
