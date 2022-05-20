@@ -32,3 +32,5 @@ This is my current "perfect" professional base stack:
 - \+ other helper tech like Redis, Kafka, Meilisearch, etc.
 
 If you need help with a similar stack, feel free to contact me :)
+
+You can also check out my [CV here](https://read.cv/antoni)!
