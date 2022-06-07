@@ -20,6 +20,10 @@ If you like any of my open-source projects you see below, please give them a sta
 
 # Hey 👋👋👋
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bring-shrubbery&label=Profile%20views&color=0e75b6&style=flat" alt="bring-shrubbery" />
+</p>
+
 My name is **Antoni**, I aim to make **simple**, **well architected**, **high quality** software and I try to make it as open-source as possible.
 
 This is my current "perfect" professional base stack:
