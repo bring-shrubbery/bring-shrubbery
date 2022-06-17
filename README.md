@@ -28,12 +28,11 @@ My name is **Antoni**, I aim to make **simple**, **well architected**, **high qu
 
 This is my current "perfect" professional base stack:
 
-- TypeScript + Rust
+- TypeScript, Rust, Go
 - Next.js + Turborepo
 - Zustand or Jotai (No more Redux 💩)
-- GraphQL _(I also don't mind OpenAPI REST + React Query, tRPC, WebRTC)_
-- Prisma + Planetscale (or MongoDB)
-- \+ other helper tech like Redis, Kafka, Meilisearch, etc.
+- GraphQL _(I also don't mind OpenAPI REST + React Query, tRPC)_
+- Prisma + Planetscale (or AWS Aurora, Redis, MongoDB)
 
 If you need help with a similar stack, feel free to contact me :)
 
