@@ -24,16 +24,15 @@ If you like any of my open-source projects you see below, please give them a sta
   <img src="https://komarev.com/ghpvc/?username=bring-shrubbery&label=Profile%20views&color=0e75b6&style=flat" alt="bring-shrubbery" />
 </p>
 
-My name is **Antoni**, I aim to make **simple**, **well architected**, **high quality** software and I try to make it as open-source as possible.
+My name is **Antoni**, I make **simple**, **well architected**, **maintainable** software and I try to make it as open-source as possible.
 
-This is my current "perfect" professional base stack:
+This is my favourite professional stack right now:
 
 - TypeScript, Rust, Go
-- Next.js + Turborepo
-- Zustand or Jotai (No more Redux 💩)
+- Next.js
+- Turborepo
+- Zustand OR Jotai (No Redux 💩)
 - GraphQL _(I also don't mind OpenAPI REST + React Query, tRPC)_
 - Prisma + Planetscale (or AWS Aurora, Redis, MongoDB)
-
-If you need help with a similar stack, feel free to contact me :)
 
 > **P.S.** You can also check out my [CV here](https://read.cv/antoni)!
