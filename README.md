@@ -32,7 +32,7 @@ This is my favourite professional stack right now:
 - Next.js
 - Turborepo
 - Zustand OR Jotai (No Redux 💩)
-- GraphQL _(I also don't mind OpenAPI REST + React Query, tRPC)_
-- Prisma + Planetscale (or AWS Aurora, Redis, MongoDB)
+- tRPC or GraphQL
+- Prisma + Planetscale (or other serverless SQL)
 
 > **P.S.** You can also check out my [CV here](https://read.cv/antoni)!
