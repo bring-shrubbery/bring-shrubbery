@@ -1,6 +1,6 @@
 # How to support me
 
-Thanks for wanting to support me!
+❤️ Thanks for wanting to support me!
 
 There are two main ways you can support me:
 
