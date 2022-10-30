@@ -33,7 +33,7 @@ This is my favourite professional stack right now:
 - TypeScript, Rust, Go
 - Next.js
 - Turborepo
-- Zustand OR Jotai (No Redux 💩)
+- React Query + Zustand or Jotai (No Redux 💩)
 - tRPC or GraphQL
 - Prisma + Planetscale (or other serverless SQL)
 
