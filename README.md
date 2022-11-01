@@ -35,6 +35,6 @@ This is my favourite professional stack right now:
 - Turborepo
 - React Query + Zustand or Jotai (No Redux 💩)
 - tRPC or GraphQL
-- Prisma + Planetscale (or other serverless SQL)
+- Prisma + Planetscale
 
 > **P.S.** You can also check out my [CV here](https://read.cv/antoni)! Or learn how you can [support me](https://github.com/bring-shrubbery/bring-shrubbery/blob/main/SUPPORT.md).
