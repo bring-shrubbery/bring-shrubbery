@@ -28,13 +28,12 @@ My name is **Antoni**, I make **simple**, **scalable** and **maintainable** soft
 
 You can learn more about me by running `ssh cv.antoni.ai` in your terminal.
 
-This is my favourite professional stack right now:
+This is my favourite professional stack core right now:
 
 - TypeScript, Rust, Go
 - Next.js
-- Turborepo
-- React Query + Zustand or Jotai (No Redux 💩)
+- React Query + Zustand or Jotai
 - tRPC or GraphQL
-- Prisma + Planetscale
+- Prisma + Planetscale/Neon
 
 > **P.S.** You can also check out my [CV here](https://read.cv/antoni)! Or learn how you can [support me](https://github.com/bring-shrubbery/bring-shrubbery/blob/main/SUPPORT.md).
