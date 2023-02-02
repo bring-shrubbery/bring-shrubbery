@@ -34,6 +34,6 @@ This is my favourite professional stack core right now:
 - Next.js
 - React Query + Zustand or Jotai
 - tRPC or GraphQL
-- Prisma + Planetscale/Neon
+- Prisma + Planetscale/Neon/Aurora
 
 > **P.S.** You can also check out my [CV here](https://read.cv/antoni)! Or learn how you can [support me](https://github.com/bring-shrubbery/bring-shrubbery/blob/main/SUPPORT.md).
