@@ -31,7 +31,7 @@ You can learn more about me by running `ssh cv.antoni.ai` in your terminal.
 This is my favourite professional stack core right now:
 
 - TypeScript, Rust, Go
-- Next.js
+- Next.js, Astro
 - React Query + Zustand or Jotai
 - tRPC or GraphQL
 - Prisma + Planetscale/Neon/Aurora
