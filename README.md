@@ -36,4 +36,4 @@ This is my favourite professional stack core right now:
 - tRPC or GraphQL
 - Prisma + Planetscale/Neon/Aurora
 
-> **P.S.** You can also check out my [CV here](https://read.cv/antoni)! Or learn how you can [support me](https://github.com/bring-shrubbery/bring-shrubbery/blob/main/SUPPORT.md).
+> **P.S.** You can also check out my [CV here](https://read.cv/antoni). Or learn how you can [support my projects](https://github.com/bring-shrubbery/bring-shrubbery/blob/main/SUPPORT.md).
