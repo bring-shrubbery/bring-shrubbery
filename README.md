@@ -31,9 +31,9 @@ You can learn more about me by running `ssh cv.antoni.ai` in your terminal.
 This is my favourite professional stack core right now:
 
 - TypeScript, Rust, Go
-- Next.js, Astro
+- Next.js, Astro, SvelteKit, Solid Start
 - React Query + Zustand or Jotai
 - tRPC or GraphQL
-- Prisma + Planetscale/Neon/Aurora
+- Prisma + Planetscale/Neon/Aurora + Redis
 
 > **P.S.** You can also check out my [CV here](https://read.cv/antoni). Or learn how you can [support my projects](https://github.com/bring-shrubbery/bring-shrubbery/blob/main/SUPPORT.md).
