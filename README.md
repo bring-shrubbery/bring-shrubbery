@@ -20,6 +20,8 @@ If you like any of my open-source projects you see below, please give them a sta
 
 # Hey 👋👋👋
 
+> **TLDR:** You can also check out my [CV here](https://read.cv/antoni).
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bring-shrubbery&label=Profile%20views&color=0e75b6&style=flat" alt="bring-shrubbery" />
 </p>
@@ -36,4 +38,12 @@ This is my favourite professional stack core right now:
 - tRPC / GraphQL / Server Components
 - Prisma with Kysely + Planetscale/Neon/Aurora + Redis
 
-> **P.S.** You can also check out my [CV here](https://read.cv/antoni). Or learn how you can [support my projects](https://github.com/bring-shrubbery/bring-shrubbery/blob/main/SUPPORT.md).
+Also, you here's a list of all of my open-source projects:
+
+| Stars | Name |
+| ---- | ---- |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/bring-shrubbery/SVG-to-SwiftUI?logo=apache-spark&logoColor=%23ffffff&label=%20&color=%230B0F15) | [SVG-to-SwiftUI](https://github.com/bring-shrubbery/SVG-to-SwiftUI) |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/bring-shrubbery/use-cookie-consent?logo=apache-spark&logoColor=%23ffffff&label=%20&color=%230B0F15) | [use-cookie-consent](https://github.com/bring-shrubbery/use-cookie-consent) |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/bring-shrubbery/squircle-js?logo=apache-spark&logoColor=%23ffffff&label=%20&color=%230B0F15) | [squircle-js](https://github.com/bring-shrubbery/squircle-js) |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/quassum/SwiftUI-Tooltip?logo=apache-spark&logoColor=%23ffffff&label=%20&color=%230B0F15) | [quassum/SwiftUI-Tooltip](https://github.com/quassum/SwiftUI-Tooltip) |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/bring-shrubbery/use-search-params-state?logo=apache-spark&logoColor=%23ffffff&label=%20&color=%230B0F15) | [use-search-params-state](https://github.com/bring-shrubbery/use-search-params-state) |
