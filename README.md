@@ -40,10 +40,10 @@ This is my favourite professional stack core right now:
 
 Also, you here's a list of all of my open-source projects:
 
-| Stars | Name |
-| ---- | ---- |
-| ![GitHub Repo stars](https://img.shields.io/github/stars/bring-shrubbery/SVG-to-SwiftUI?logo=apache-spark&logoColor=%23ffffff&label=%20&color=%230B0F15) | [SVG-to-SwiftUI](https://github.com/bring-shrubbery/SVG-to-SwiftUI) |
-| ![GitHub Repo stars](https://img.shields.io/github/stars/bring-shrubbery/use-cookie-consent?logo=apache-spark&logoColor=%23ffffff&label=%20&color=%230B0F15) | [use-cookie-consent](https://github.com/bring-shrubbery/use-cookie-consent) |
-| ![GitHub Repo stars](https://img.shields.io/github/stars/bring-shrubbery/squircle-js?logo=apache-spark&logoColor=%23ffffff&label=%20&color=%230B0F15) | [squircle-js](https://github.com/bring-shrubbery/squircle-js) |
-| ![GitHub Repo stars](https://img.shields.io/github/stars/quassum/SwiftUI-Tooltip?logo=apache-spark&logoColor=%23ffffff&label=%20&color=%230B0F15) | [quassum/SwiftUI-Tooltip](https://github.com/quassum/SwiftUI-Tooltip) |
-| ![GitHub Repo stars](https://img.shields.io/github/stars/bring-shrubbery/use-search-params-state?logo=apache-spark&logoColor=%23ffffff&label=%20&color=%230B0F15) | [use-search-params-state](https://github.com/bring-shrubbery/use-search-params-state) |
+| Stars | Name | About | 
+| ----- | ---- | ----- |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/bring-shrubbery/SVG-to-SwiftUI?logo=apache-spark&logoColor=%23ffffff&label=%20&color=%230B0F15) | [SVG-to-SwiftUI](https://github.com/bring-shrubbery/SVG-to-SwiftUI) | Compiler + Web App to convert raw SVG code to SwiftUI Shape. |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/bring-shrubbery/use-cookie-consent?logo=apache-spark&logoColor=%23ffffff&label=%20&color=%230B0F15) | [use-cookie-consent](https://github.com/bring-shrubbery/use-cookie-consent) | Headless JavaScript hook to simplify implementation of Cookie Consent banners. |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/bring-shrubbery/squircle-js?logo=apache-spark&logoColor=%23ffffff&label=%20&color=%230B0F15) | [squircle-js](https://github.com/bring-shrubbery/squircle-js) | Squircle element for the web. | 
+| ![GitHub Repo stars](https://img.shields.io/github/stars/quassum/SwiftUI-Tooltip?logo=apache-spark&logoColor=%23ffffff&label=%20&color=%230B0F15) | [quassum/SwiftUI-Tooltip](https://github.com/quassum/SwiftUI-Tooltip) | Tooltip utility for SwiftUI developers. | 
+| ![GitHub Repo stars](https://img.shields.io/github/stars/bring-shrubbery/use-search-params-state?logo=apache-spark&logoColor=%23ffffff&label=%20&color=%230B0F15) | [use-search-params-state](https://github.com/bring-shrubbery/use-search-params-state) | State in your URL! Simple JavaScript hook to let you store state in URL Search Params easily. | 
