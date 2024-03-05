@@ -40,7 +40,7 @@ Also, you here's a list of all of my open-source projects:
 
 | Stars | Name | About | 
 | ----- | ---- | ----- |
-| ![GitHub Repo stars](https://img.shields.io/github/stars/bring-shrubbery/use-search-params-state?logo=apache-spark&logoColor=%23ffffff&label=%20&color=%230B0F15) | [use-search-params-state](https://github.com/bring-shrubbery/use-search-params-state) | State in your URL! Simple JavaScript hook to let you store state in URL Search Params easily. | 
+| ![GitHub Repo stars](https://img.shields.io/github/stars/bring-shrubbery/sp-hooks?logo=apache-spark&logoColor=%23ffffff&label=%20&color=%230B0F15) | [sp-hooks](https://github.com/bring-shrubbery/sp-hooks) | State in your URL! Simple JavaScript hook to let you store state in URL Search Params easily. | 
 | ![GitHub Repo stars](https://img.shields.io/github/stars/bring-shrubbery/SVG-to-SwiftUI?logo=apache-spark&logoColor=%23ffffff&label=%20&color=%230B0F15) | [SVG-to-SwiftUI](https://github.com/bring-shrubbery/SVG-to-SwiftUI) | Compiler + Web App to convert raw SVG code to SwiftUI Shape. |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/bring-shrubbery/use-cookie-consent?logo=apache-spark&logoColor=%23ffffff&label=%20&color=%230B0F15) | [use-cookie-consent](https://github.com/bring-shrubbery/use-cookie-consent) | Headless JavaScript hook to simplify implementation of Cookie Consent banners. |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/bring-shrubbery/squircle-js?logo=apache-spark&logoColor=%23ffffff&label=%20&color=%230B0F15) | [squircle-js](https://github.com/bring-shrubbery/squircle-js) | Squircle element for the web. | 
