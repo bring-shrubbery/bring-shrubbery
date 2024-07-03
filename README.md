@@ -20,21 +20,23 @@ If you like any of my open-source projects you see below, please give them a sta
 
 # Hey 👋👋👋
 
-> **TLDR:** You can also check out my [CV here](https://read.cv/antoni), or by running `ssh cv.antoni.ai` in your terminal
+> You can also check out my [CV here](https://read.cv/antoni), or by running `ssh cv.antoni.ai` in your terminal
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bring-shrubbery&label=Profile%20views&color=0e75b6&style=flat" alt="bring-shrubbery" />
 </p>
 
-My name is **Antoni**, I make **simple**, **scalable** and **maintainable** software while trying to make it as open-source as possible.
+My name is **Antoni**,
+
+I build **simple**, **scalable** and **maintainable** software. Best UI/UX is reached through incremental iteration.
 
 This is my favourite professional stack core right now:
 
-- TypeScript, Rust, Go
+- TypeScript, Go, Rust
 - Next.js, SvelteKit, Astro
-- React Query + Zustand or Jotai
-- tRPC / GraphQL / Server Components
-- Prisma with Kysely + Planetscale/Neon/Aurora + Redis
+- Xstate + Zustand/Jotai
+- tRPC / OpenAPI + React Query / Server Components
+- Prisma with Kysely + Planetscale + Redis
 
 Also, you here's a list of all of my open-source projects:
 
