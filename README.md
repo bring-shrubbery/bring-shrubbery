@@ -38,6 +38,7 @@ This is my favourite professional stack core right now:
 - tRPC / OpenAPI + React Query / Server Components
 - Prisma with Kysely + Planetscale + Redis
 
+<!--
 Also, you here's a list of all of my open-source projects:
 
 | Stars | Name | About | 
@@ -65,3 +66,4 @@ Also, you here's a list of all of my open-source projects:
 - [next-radix-stitches-typescript-eslint-template](https://github.com/bring-shrubbery/next-radix-stitches-typescript-eslint-template) - Template
 
 </details>
+-->
