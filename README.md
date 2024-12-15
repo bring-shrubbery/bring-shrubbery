@@ -18,7 +18,7 @@ I also enjoy learning new things, teaching what I know best and creating open-so
 If you like any of my open-source projects you see below, please give them a star! 😇 -->
 
 
-# Hey 👋👋👋
+# Howdy 👋👋👋
 
 > You can also check out my [CV here](https://read.cv/antoni), or by running `ssh cv.antoni.ai` in your terminal
 
@@ -28,15 +28,11 @@ If you like any of my open-source projects you see below, please give them a sta
 
 My name is **Antoni**,
 
-I build **simple**, **scalable** and **maintainable** software. Best UI/UX is reached through incremental iteration.
+I like building things and seeing people enjoy things I build.
 
-This is my favourite professional stack core right now:
+I don't limit my interests to any stack, but I specialise in TypeScript, React and PostgreSQL. I really like what tRPC, Svelte, Swift, Rust, Go (and more) are doing for the app development community.
 
-- TypeScript, Go, Rust
-- Next.js, SvelteKit, Astro
-- Xstate + Zustand/Jotai
-- tRPC / OpenAPI + React Query / Server Components
-- Prisma with Kysely + Planetscale + Redis
+If you'd like to know what I think, feel free to check out my blog or youtube channel 🖤
 
 <!--
 Also, you here's a list of all of my open-source projects:
