@@ -32,7 +32,7 @@ I like building things and seeing people enjoy things I build.
 
 I don't limit my interests to any stack, but I specialise in TypeScript, React and PostgreSQL. I really like what tRPC, Svelte, Swift, Rust, Go (and more) are doing for the app development community.
 
-If you'd like to know what I think about things, feel free to check out my blog or youtube channel 🖤
+If you'd like to know what and how I think about things, feel free to check out my blog or youtube channel 🖤
 
 <!--
 Also, you here's a list of all of my open-source projects:
