@@ -34,7 +34,7 @@ I don't limit my interests to any stack, but professionaly I specialise in every
 
 If you'd like to know what and how I think about things, feel free to check out my [site](https://antoni.cv) or [youtube channel](https://www.youtube.com/@bring-shrubbery) 🖤
 
-Finally, I'm running a AI & Web Dev agency, if you're looking for somone to make your project real - head to [quassum.com](https://quassum.com/)
+Finally, I'm running an AI & Web Dev agency, if you're looking for somone to make your project real - head to [quassum.com](https://quassum.com/)
 
 <!--
 Also, you here's a list of all of my open-source projects:
