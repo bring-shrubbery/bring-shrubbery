@@ -30,9 +30,9 @@ My name is **Antoni**,
 
 I like building things and seeing people enjoy things I build.
 
-I don't limit my interests to any stack, but I specialise in TypeScript, React and PostgreSQL. I really like what tRPC, Svelte, Swift, Rust, Go (and more) are doing for the app development community.
+I don't limit my interests to any stack, but professionaly I specialise in everything TypeScript. I like developing products that solve small problems for me and other people, and my favourite stack for that at the moment is: [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html), [TailwindCSS](https://tailwindcss.com/), [PostgreSQL](https://www.w3schools.com/postgresql/), [Drizzle](https://orm.drizzle.team/), [BetterAuth](https://www.better-auth.com/), [tRPC](https://trpc.io/), [Expo](https://expo.dev/) and [Vercel](https://vercel.com). I also dabble in Swift, Go and Rust.
 
-If you'd like to know what and how I think about things, feel free to check out my blog or youtube channel 🖤
+If you'd like to know what and how I think about things, feel free to check out my [site](https://antoni.cv) or [youtube channel](https://www.youtube.com/@bring-shrubbery) 🖤
 
 <!--
 Also, you here's a list of all of my open-source projects:
