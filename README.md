@@ -20,12 +20,6 @@ If you like any of my open-source projects you see below, please give them a sta
 
 # Howdy 👋👋👋
 
-> You can also check out my [CV here](https://read.cv/antoni), or by running `ssh cv.antoni.ai` in your terminal
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bring-shrubbery&label=Profile%20views&color=0e75b6&style=flat" alt="bring-shrubbery" />
-</p>
-
 My name is **Antoni**,
 
 I like building things and seeing people enjoy things I build.
@@ -34,7 +28,13 @@ I don't limit my interests to any stack, but professionaly I specialise in every
 
 If you'd like to know what and how I think about things, feel free to check out my [site](https://antoni.cv) or [youtube channel](https://www.youtube.com/@bring-shrubbery) 🖤
 
-Finally, I'm running an AI & Web Dev agency, if you're looking for somone to make your project real - head to [quassum.com](https://quassum.com/)
+Finally, if you need a website, checkout website templates that I design and build using Next.js, Astro and TailwindCSS at [quassum.design](https://quassum.design/)
+
+> You can also check out my [CV here](https://read.cv/antoni), or by running `ssh cv.antoni.ai` in your terminal
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bring-shrubbery&label=Profile%20views&color=0e75b6&style=flat" alt="bring-shrubbery" />
+</p>
 
 <!--
 Also, you here's a list of all of my open-source projects:
