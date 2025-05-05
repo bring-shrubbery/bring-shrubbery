@@ -31,7 +31,7 @@ I'm building:
 - Best AI-first Customer Support without breaking the bank @ [OneDollarChatbot.com](https://onedollarchatbot.com)
 - Premium Next.js Templates @ [quassum.design](https://quassum.design/)
 
-> You can also check out my [CV here](https://read.cv/antoni), or by running `ssh cv.antoni.ai` in your terminal
+> You can also check out my [CV here](https://antoni.cv), or by running `ssh cv.antoni.ai` in your terminal
 
 
 <!-- https://bento.me/bring-shrubbery -->
