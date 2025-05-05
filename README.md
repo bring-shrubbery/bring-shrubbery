@@ -20,22 +20,21 @@ If you like any of my open-source projects you see below, please give them a sta
 
 # Howdy 👋👋👋
 
-My name is **Antoni**,
-
-I like building things and seeing people enjoy things I build.
-
-I don't limit my interests to any stack, but professionaly I specialise in everything TypeScript. I like developing products that solve small problems for me and other people, and my favourite stack for that at the moment is: [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html), [TailwindCSS](https://tailwindcss.com/), [PostgreSQL](https://www.w3schools.com/postgresql/), [Drizzle](https://orm.drizzle.team/), [BetterAuth](https://www.better-auth.com/), [tRPC](https://trpc.io/), [Expo](https://expo.dev/) and [Vercel](https://vercel.com). I also dabble in Swift, Go and Rust.
-
-If you'd like to know what and how I think about things, feel free to check out my [site](https://antoni.cv) or [youtube channel](https://www.youtube.com/@bring-shrubbery) 🖤
-
-Finally, if you need a website, checkout website templates that I design and build using Next.js, Astro and TailwindCSS at [quassum.design](https://quassum.design/)
-
-> You can also check out my [CV here](https://read.cv/antoni), or by running `ssh cv.antoni.ai` in your terminal
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bring-shrubbery&label=Profile%20views&color=0e75b6&style=flat" alt="bring-shrubbery" />
 </p>
 
+My name is **Antoni**,
+
+I'm building:
+
+- Best AI-first Customer Support without breaking the bank @ [OneDollarChatbot.com](https://onedollarchatbot.com)
+- Premium Next.js Templates @ [quassum.design](https://quassum.design/)
+
+> You can also check out my [CV here](https://read.cv/antoni), or by running `ssh cv.antoni.ai` in your terminal
+
+
+<!-- https://bento.me/bring-shrubbery -->
 <!--
 Also, you here's a list of all of my open-source projects:
 
