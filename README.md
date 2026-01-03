@@ -32,9 +32,10 @@ I'm building:
 - Don't let your competitors win. Analyze your competitors using [CompetiTaurus.com](https://competitaurus.com)
 - Fully-featured shadcn/ui design systems for Award-Winning websites @ [quassum.design](https://quassum.design/)
 
+<!--
 If you'd like to learn more about me, you can check out my [CV here](https://antoni.cv) <br/>
 or by running `ssh cv.antoni.ai` in your terminal.
-
+-->
 
 <!-- https://bento.me/bring-shrubbery -->
 <!--
