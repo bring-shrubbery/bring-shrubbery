@@ -26,7 +26,7 @@ If you like any of my open-source projects you see below, please give them a sta
 
 My name is **Antoni**, I'm building:
 
-- Best AI-first Customer Support without breaking the bank @ [OneDollarChatbot.com](https://onedollarchatbot.com)
+- The Future of Customer Support @ [OneDollarChatbot.com](https://onedollarchatbot.com)
 - Don't let your competitors win. Analyze your competitors using [CompetiTaurus.com](https://competitaurus.com)
 - Fully-featured shadcn/ui design systems for Award-Winning websites @ [quassum.design](https://quassum.design/)
 
