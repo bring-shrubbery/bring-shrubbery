@@ -24,7 +24,7 @@ If you like any of my open-source projects you see below, please give them a sta
   <img src="https://komarev.com/ghpvc/?username=bring-shrubbery&label=Profile%20views&color=0e75b6&style=flat" alt="bring-shrubbery" />
 </p>
 
-My name is **Antoni**, I'm building:
+My name is **Antoni**, I'm building way too many projects:
 
 - The Future of Customer Support @ [FutureBase.io](https://futurebase.io)
 - Clone Anything on the Web to Claude or Figma @ [Pluck.so](https://www.pluck.so/)
