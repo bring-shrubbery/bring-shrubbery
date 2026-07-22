@@ -30,7 +30,7 @@ My name is **Antoni**, I'm building way too many projects:
 - Clone Anything on the Web to Claude or Figma @ [Pluck.so](https://www.pluck.so/)
 - Create any iOS widget by prompting @ [WidgetAI](https://getwidgetai.com/)
 - Squircles on the web @ [squircle.js.org](https://squircle.js.org/)
-- Shadcn/UI for Award-Winning websites @ (coming soon)
+- Lithuanian Company Registry for Agents [imonesmcp.lt](https://www.imonesmcp.lt)
 
 <!--
 If you'd like to learn more about me, you can check out my [CV here](https://antoni.cv) <br/>
