@@ -32,7 +32,7 @@ My name is **Antoni**, I'm building way too many projects:
 - Squircles on the web @ [squircle.js.org](https://squircle.js.org/)
 - Lithuanian Company Registry for Agents [imonesmcp.lt](https://www.imonesmcp.lt/)
 - SSH Terminal for iOS @ [superterminal.sh](https://www.superterminal.sh/)
-- Best Audio to MIDI transcription app for macOS @ [neural-sheet](https://neural-sheet.quassum.com/)
+- Best Audio to MIDI transcription app for macOS @ [neural-sheet](https://github.com/bring-shrubbery/neural-sheet)
 
 <!--
 If you'd like to learn more about me, you can check out my [CV here](https://antoni.cv) <br/>
