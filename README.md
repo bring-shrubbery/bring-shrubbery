@@ -33,6 +33,7 @@ My name is **Antoni**, I'm building way too many projects:
 - Lithuanian Company Registry for Agents [imonesmcp.lt](https://www.imonesmcp.lt/)
 - SSH Terminal for iOS @ [superterminal.sh](https://www.superterminal.sh/)
 - Best Audio to MIDI transcription app for macOS @ [neural-sheet](https://github.com/bring-shrubbery/neural-sheet)
+- Track costs, clean up old worktrees and more @ [squish](https://github.com/bring-shrubbery/squish)
 - My custom agent skills @ [skills](https://github.com/bring-shrubbery/skills)
 
 <!--
