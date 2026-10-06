@@ -27,7 +27,7 @@ If you like any of my open-source projects you see below, please give them a sta
 My name is **Antoni**, I'm building way too many projects:
 
 - The Future of Customer Support @ [FutureBase.io](https://futurebase.io)
-- Clone Anything on the Web to Claude or Figma @ [Pluck.so](https://www.pluck.so/)
+- Turn the Web into design material @ [Pluck.so](https://www.pluck.so/)
 - Create any iOS widget by prompting @ [WidgetAI](https://getwidgetai.com/)
 - Squircles on the web @ [squircle.js.org](https://squircle.js.org/)
 - Lithuanian Company Registry for Agents [imonesmcp.lt](https://www.imonesmcp.lt/)
